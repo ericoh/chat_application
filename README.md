@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a chat application i developed using react.js and chat engine API
 
 ## Available Scripts
 
